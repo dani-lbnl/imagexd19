@@ -15,5 +15,6 @@ access the material via MyBinder:
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/imagexd/2019-tutorial-skimage/master)
 
 For more info:
+  * [[ImageXD]](https://bids.berkeley.edu/research/image-xd)
   * [[ImageXD 2019]](https://xd-con.org/imagexd-2019/)
   * [[scikit-image]](https://scikit-image.org/)
